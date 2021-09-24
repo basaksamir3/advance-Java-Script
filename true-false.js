@@ -13,7 +13,7 @@
     // {}
     // "NaN"
 
-let names = "NaN";
+let names = '';
 
 
 if (names) {
